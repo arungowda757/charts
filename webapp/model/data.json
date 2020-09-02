@@ -1,0 +1,18 @@
+{
+	"fruits" : [
+		{
+			"name":"apple",
+			"color":"red",
+			"quantity":45
+		},
+		{
+			"name":"mango",
+			"color":"yellow",
+			"quantity":10
+		},
+		{
+			"name":"grapes",
+			"color":"green",
+			"quantity":100
+		}]
+}
